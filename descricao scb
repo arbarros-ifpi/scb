@@ -1,0 +1,12 @@
+Imagine um sistema de controle bancário onde você 
+pode cadastrar pessoas físicas e pessoas jurídicas. 
+Neste sistema, cada pessoa pode ter uma ou várias 
+Contas associadas a si. Os tipos de conta são: 
+conta corrente, conta poupança e conta especial. 
+A conta poupança rende juros de 1% ao mês para o 
+cliente. A conta especial tem limite de R$500,00 
+para aquele cliente que ficar no vermelho. 
+A conta corrente é uma conta simples que tem uma 
+tarifa de R$ 50,00 para o cliente que opte por ela. 
+O sistema, pode ainda, cadastrar Conta, 
+efetuar saques, depósitos e transferências.
